@@ -20,10 +20,10 @@ Launching is not a one-day event. Submit to 30-50 of these over a few weeks and 
 </p>
 
 <p align="center">
-  <a href="https://startupsmap.co.in/add-startup?utm_source=github&utm_medium=awesome-list"><b>Add your startup for free</b></a> &nbsp;|&nbsp;
-  <a href="https://startupsmap.co.in/startups?utm_source=github&utm_medium=awesome-list">Browse startups</a> &nbsp;|&nbsp;
-  <a href="https://startupsmap.co.in/jobs?utm_source=github&utm_medium=awesome-list">Startup jobs</a> &nbsp;|&nbsp;
-  <a href="https://startupsmap.co.in/meetup-radar?utm_source=github&utm_medium=awesome-list">Founder Meetup Radar</a>
+  <a href="https://startupsmap.co.in/add-startup"><b>Add your startup for free</b></a> &nbsp;|&nbsp;
+  <a href="https://startupsmap.co.in/startups">Browse startups</a> &nbsp;|&nbsp;
+  <a href="https://startupsmap.co.in/jobs">Startup jobs</a> &nbsp;|&nbsp;
+  <a href="https://startupsmap.co.in/meetup-radar">Founder Meetup Radar</a>
 </p>
 
 **Why list on StartupsMap:**
@@ -515,6 +515,6 @@ This list builds on and extends the work of [mmccaff/PlacesToPostYourStartup](ht
 ---
 
 <p align="center">
-  Built by <a href="https://x.com/AvinashSingh_20">Avinash Singh</a>, creator of <a href="https://startupsmap.co.in/?utm_source=github&utm_medium=awesome-list"><b>StartupsMap</b></a> and <a href="https://lets-code.co.in">Let's Code</a>.<br>
-  Launched something? <a href="https://startupsmap.co.in/add-startup?utm_source=github&utm_medium=awesome-list">Put it on the map</a>, and star this repo if it helped you.
+  Built by <a href="https://x.com/AvinashSingh_20">Avinash Singh</a>, creator of <a href="https://startupsmap.co.in/"><b>StartupsMap</b></a> and <a href="https://lets-code.co.in">Let's Code</a>.<br>
+  Launched something? <a href="https://startupsmap.co.in/add-startup">Put it on the map</a>, and star this repo if it helped you.
 </p>
