@@ -504,14 +504,6 @@ Know a platform that is missing? Pull requests are welcome.
 
 Found a dead link, or a platform that went fully paid? Open an issue.
 
-## Credits
-
-This list builds on and extends the work of [mmccaff/PlacesToPostYourStartup](https://github.com/mmccaff/PlacesToPostYourStartup), [mahseema/awesome-saas-directories](https://github.com/mahseema/awesome-saas-directories) and [best-of-ai/ai-directories](https://github.com/best-of-ai/ai-directories). Thanks to all their contributors.
-
-## License
-
-[![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
-
 ---
 
 <p align="center">
