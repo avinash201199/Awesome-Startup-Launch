@@ -250,6 +250,7 @@ There are hundreds of AI directories, and many have moved to paid listings. Thes
 | [Futurepedia](https://www.futurepedia.io) | Popular AI tools directory, updated daily. | Free + Paid |
 | [Future Tools](https://www.futuretools.io) | Curated AI tools collection. | Free |
 | [Toolify](https://www.toolify.ai) | AI tools directory and rankings. | Free + Paid |
+| [FalcoScan](https://falcoscan.com/submit) | Ranks 7,000+ AI products across 29 markets; makers get their private rank by email. | Free |
 | [TopAI.tools](https://topai.tools) | Discover the best AI tools. | Free + Paid |
 | [Altern](https://altern.ai) | Directory for AI tools, models and resources. | Free + Paid |
 | [OpenTools](https://opentools.ai) | AI tools directory with GPT-powered search. | Free + Paid |
