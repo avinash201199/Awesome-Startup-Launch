@@ -111,6 +111,7 @@ The highest-impact places to launch. Prepare well before launching on these.
 | [Launched](https://launched.io/SubmitStartup) | Simple startup launch listing. | Free |
 | [Website Hunt](https://www.websitehunt.co) | Discover and upvote new websites. | Free |
 | [Deeplaunch](https://deeplaunch.io) | Directory and launchpad for online tools and resources. | Free + Paid |
+| [StartupWiki](https://startupwiki.tech/launch) | Free product launch board with community upvotes; requires a Featured on StartupWiki badge on the product's site. | Free |
 
 ## Startup Directories
 
