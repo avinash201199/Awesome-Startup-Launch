@@ -228,6 +228,7 @@ Slower to set up, but these are what buyers check during purchasing decisions. R
 | [AI For Developers](https://aifordevelopers.org) | Curated AI SDKs, copilots and APIs. | Free + Paid |
 | [API List](https://apilist.fun) | Directory of public APIs. | Free |
 | [Public APIs](https://github.com/public-apis/public-apis) | Open a PR to the most popular free API list. | Free |
+| [TeaserTrack](https://teasertrack.cc/submit) | Directory of upcoming and new developer tools; list before launch with a waitlist, reviewed by a person. | Free |
 
 ## Open Source Projects
 
