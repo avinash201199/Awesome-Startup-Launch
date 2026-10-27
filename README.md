@@ -162,6 +162,7 @@ The highest-impact places to launch. Prepare well before launching on these.
 | [BuildVoyage](https://buildvoyage.com) | Micro-SaaS directory focused on the build journey. | Free |
 | [Founder Page](https://founder.page) | Founder profile pages linking to your products. | Free + Paid |
 | [ConfettiSaaS](https://confettisaas.com) | Discover new indie projects. | Free + Paid |
+| [Proof of Traction](https://proofoftraction.com/) | Weekly leaderboard for indie projects ranked by measured website visitors. | Free |
 
 ## SaaS Directories
 
