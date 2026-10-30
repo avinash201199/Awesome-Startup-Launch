@@ -96,6 +96,7 @@ The highest-impact places to launch. Prepare well before launching on these.
 
 | Platform | Description | Pricing |
 |---|---|---|
+| [FoundrList](https://www.foundrlist.com) | Weekly launch cohorts for SaaS and AI tools, with community upvotes and a public leaderboard. | Free + Paid |
 | [Microlaunch](https://microlaunch.net) | Month-long launches for indie makers, less noise than Product Hunt. | Free + Paid |
 | [Fazier](https://fazier.com) | Launch platform with an active maker audience and weekly digest. | Free + Paid |
 | [Tiny Startups](https://www.tinystartups.com) | Weekly launches plus a newsletter for bootstrapped founders. | Free + Paid |
