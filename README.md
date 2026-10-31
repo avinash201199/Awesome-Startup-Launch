@@ -142,6 +142,7 @@ The highest-impact places to launch. Prepare well before launching on these.
 | [Buy Sell Startups Index](https://www.buysellstartups.com/startup-index) | Startup directory seen by founders and potential acquirers. | Free + Paid |
 | [Best of Web](https://www.bestofweb.site) | Startup and founder directory with a dofollow backlink. | Free + Paid |
 | [Makerlist](https://makerlist.io) | Directory of tools and startups. | Free + Paid |
+| [MEDIAPRONET](https://mediapronet.com/submit) | Curated directory where founders list new startups, SaaS tools and indie products. | Free + Paid |
 | [Uno Directory](https://uno.directory) | Curated directory of tools across categories. | Free + Paid |
 | [Webspot](https://webspot.app) | Discover the best websites on the internet. | Free + Paid |
 | [Dofollow.Tools](https://dofollow.tools) | Tool directory offering dofollow backlinks. | Free + Paid |
