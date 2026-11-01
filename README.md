@@ -149,6 +149,7 @@ The highest-impact places to launch. Prepare well before launching on these.
 | [Saijo's Tools List](https://saijogeorge.com/best-marketing-tools/) | Curated marketing tools list. | Free |
 | [All My Faves](https://www.allmyfaves.com) | Visual directory of popular websites. | Free |
 | [SimilarSiteSearch](https://www.similarsitesearch.com/tips.html) | Find similar websites; submit yours. | Free |
+| [SitePatent](https://sitepatent.com/submit) | Directory of startups, tools and online products by category and tech stack. | Free + Paid |
 
 ## Indie and Maker Directories
 
