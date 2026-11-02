@@ -111,6 +111,7 @@ The highest-impact places to launch. Prepare well before launching on these.
 | [Launched](https://launched.io/SubmitStartup) | Simple startup launch listing. | Free |
 | [Website Hunt](https://www.websitehunt.co) | Discover and upvote new websites. | Free |
 | [Deeplaunch](https://deeplaunch.io) | Directory and launchpad for online tools and resources. | Free + Paid |
+| [RankCert](https://rankcert.com) | Weekly launch board ranked by verified domain control, with a dofollow backlink when you add its badge. | Free + Paid |
 
 ## Startup Directories
 
