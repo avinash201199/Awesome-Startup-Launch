@@ -277,6 +277,7 @@ There are hundreds of AI directories, and many have moved to paid listings. Thes
 | [Dynamite AI](https://www.dynamite-ai.com) | Free AI tools directory. | Free |
 | [Free AI Tool](https://freeaitool.ai) | Directory of free AI tools. | Free + Paid |
 | [ClaudePro.directory](https://claudepro.directory) | MCP servers, agents and resources for Claude users. | Free |
+| [MeetNewAI](https://meetnewai.com) | Free bilingual directory of AI tools, AI games, and MCP servers organized by job-to-be-done. | Free |
 
 ## AI Agent Directories
 
