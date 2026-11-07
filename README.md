@@ -167,6 +167,7 @@ The highest-impact places to launch. Prepare well before launching on these.
 
 | Platform | Description | Pricing |
 |---|---|---|
+| [EarlyLore](https://earlylore.com) | Research workspace for founders: SaaS products, revenue signals, competitor changes before you build. | Free |
 | [SaaSHub](https://www.saashub.com) | Independent software marketplace with strong long-term SEO. | Free + Paid |
 | [SaaS.fyi](https://www.saas.fyi) | Directory focused only on SaaS products. | Free + Paid |
 | [SaaSworthy](https://www.saasworthy.com) | SaaS discovery and comparison. | Free + Paid |
