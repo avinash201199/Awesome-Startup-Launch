@@ -259,6 +259,7 @@ There are hundreds of AI directories, and many have moved to paid listings. Thes
 | [AIDir](https://aidir.wiki) | AI directory running since 2022. | Free + Paid |
 | [Submit AI Tools](https://submitaitools.org) | AI tool submission directory. | Free + Paid |
 | [AI Hunt List](https://aihuntlist.com) | 3000+ AI products across 200+ categories. | Free + Paid |
+| [AITrustList](https://aitrustlist.com) | AI tools directory ranked by verified traffic and growth - 3,000+ tools across 200+ categories. | Free + Paid |
 | [AI Toolz Dir](https://www.aitoolzdir.com) | Free submission with a backlink. | Free + Paid |
 | [Insidr AI Directory](https://www.insidr.ai/ai-tools/) | AI tools directory. | Free |
 | [NeonRev](https://www.neonrev.com) | Large AI tools directory. | Free + Paid |
