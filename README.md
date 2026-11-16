@@ -249,6 +249,7 @@ There are hundreds of AI directories, and many have moved to paid listings. Thes
 | [There's An AI For That](https://theresanaiforthat.com) | Largest AI tool directory. | Free + Paid |
 | [Futurepedia](https://www.futurepedia.io) | Popular AI tools directory, updated daily. | Free + Paid |
 | [Future Tools](https://www.futuretools.io) | Curated AI tools collection. | Free |
+| [European AI Tools](https://europeanaitools.com/) | European AI software directory with free, manually reviewed submissions. | Free |
 | [Toolify](https://www.toolify.ai) | AI tools directory and rankings. | Free + Paid |
 | [TopAI.tools](https://topai.tools) | Discover the best AI tools. | Free + Paid |
 | [Altern](https://altern.ai) | Directory for AI tools, models and resources. | Free + Paid |
