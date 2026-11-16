@@ -289,6 +289,7 @@ There are hundreds of AI directories, and many have moved to paid listings. Thes
 | [AgentHunter](https://www.agenthunter.io) | Discover AI agents. | Free + Paid |
 | [Findyouragent.ai](https://findyouragent.ai) | Curated AI agent directory and search. | Free + Paid |
 | [AI Agents Live](https://aiagentslive.com) | Discover and share AI agents. | Free + Paid |
+| [Add AI Directory](https://www.addaidirectory.com) | A curated directory of AI agents organized by category, with editorial reviews and free submissions. | Free |
 
 ## No-Code and Productivity Tools
 
