@@ -183,6 +183,7 @@ The highest-impact places to launch. Prepare well before launching on these.
 | [TapRefer](https://www.taprefer.com) | Directory of affiliate programs; list yours. | Free + Paid |
 | [Marketing Tools List](https://marketingtoolslist.com) | Curated list of marketing tools. | Free + Paid |
 | [Direct2App](https://www.direct2app.com) | SaaS and AI tools for business. | Free + Paid |
+| [Toolradar](https://toolradar.com) | Software and AI tool directory with prices checked on vendor pages. Free listing. | Free + Paid |
 
 ## Software Review Sites (B2B)
 
